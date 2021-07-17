@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  web:
+    image: devopsjourney1/myflaskimg:1
+    ports:
+      - "5000:5000"
