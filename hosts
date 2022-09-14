@@ -6,7 +6,7 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
-172.16.1.50 control
-172.16.1.51 node1
-172.16.1.52 node2
-172.16.1.53 node3
+192.168.56.11 control
+192.168.56.12 node1
+192.168.56.13 node2
+192.168.56.14 node3
